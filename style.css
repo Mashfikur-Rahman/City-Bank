@@ -8,6 +8,7 @@ body{
 }
 .name{
     text-align: center;
+    margin-bottom: 30px;
     color: red;
     font-size: 130px;
 }
@@ -26,7 +27,7 @@ body{
 }
 
 #transaction{
-    margin: 20px;
+    margin-bottom: 40px;
     display: none;
     text-overflow: red;
     border-radius: 10px;
